@@ -2,8 +2,7 @@
 
 **Estudiante en Ingeniera en Tecnologías de la Información | Software Engineer**
 
-📍 Chapulco, Puebla | 📞 +52 238 144 3250 | 📧 quiquesin1@gmail.com | 🔗 [GitHub](https://github.com/EJ-Zaskier)
-
+📍 Chapulco, Puebla | 📞 +52 238 144 3250 | 📧 quiquesin1@gmail.com | 
 ---
 
 ## 🌐 Selecciona tu idioma | Select your language
