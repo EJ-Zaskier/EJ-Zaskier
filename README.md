@@ -1,6 +1,6 @@
 # Enrique Julián García López | Full Stack Developer
 
-**Estudiante en Ingeniera en Tecnologías de la Información | Software Engineer**
+**Estudiante en Ingeniera en Tecnologías de la Información | Software Student Developer**
 
 📍 Chapulco, Puebla | 📞 +52 238 144 3250 | 📧 quiquesin1@gmail.com | 
 ---
