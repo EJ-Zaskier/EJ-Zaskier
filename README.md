@@ -1,6 +1,6 @@
 # Enrique Julián Gracia López
 
-**Desarrollador Full Stack Jr. | React · React Native · Node.js · TypeScript**
+**Desarrollador Full Stack Jr. | Next.js · React · TypeScript · Node.js · PostgreSQL**
 
 Estudiante de Ingeniería en Tecnologías de la Información (Desarrollo y Gestión de Software) en la Universidad Tecnológica de Tehuacán. Busco prácticas profesionales o un puesto junior de medio tiempo o remoto, compatible con mis estudios.
 
@@ -14,11 +14,12 @@ Estudiante de Ingeniería en Tecnologías de la Información (Desarrollo y Gesti
 
 ### 👋 Sobre mí
 
-Desarrollo aplicaciones web y móviles de punta a punta: API, base de datos e interfaz. Me enfoco en que lo que construyo sea seguro y confiable: autenticación con roles, validación de datos, pruebas automatizadas y lógica que evita errores reales, como vender más producto del que hay en inventario o perder centavos al calcular un total.
+Desarrollo aplicaciones web y móviles de punta a punta: interfaz, API, base de datos y despliegue. Actualmente construyo **Barber Digital**, una plataforma SaaS de reservas y pagos para barberías. Me enfoco en que lo que construyo sea seguro y confiable: autenticación con roles, validación de datos, pruebas automatizadas y lógica que evita errores reales, como vender más producto del que hay en inventario o perder centavos al calcular un total.
 
 ### 🛠️ Tecnologías
 
 **Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -34,19 +35,32 @@ Desarrollo aplicaciones web y móviles de punta a punta: API, base de datos e in
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 **Bases de datos**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Seguridad, nube y herramientas**
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-**Además:** JWT, bcrypt y control de acceso por roles · Helmet, CORS y rate limiting · Express-validator · Vitest y Supertest · Meilisearch · ExcelJS y PDFKit · Scrum
+**Además:** Zod · seguridad por filas (RLS) y pruebas pgTAP · JWT, MFA/TOTP y control de acceso por roles · Helmet, CORS y rate limiting · Vitest y Supertest · Meilisearch · Scrum
 
 ### 🚀 Proyectos destacados
+
+#### 💈 Barber Digital: SaaS de reservas y pagos para barberías *(repositorio privado, en desarrollo)*
+- Cada barbería tiene su propio sitio con servicios y **reservas sin cuenta**; el cliente elige pagar en el local o con tarjeta (**Stripe Connect**, en modo prueba).
+- El dueño administra agenda, horarios, personal, productos con inventario y su mensualidad, protegido con **verificación en dos pasos (TOTP)**.
+- **PostgreSQL en Supabase** con 50 migraciones, **seguridad por filas (RLS)** y 45 suites de pruebas pgTAP.
+- Monorepo con contratos **Zod** compartidos, CI en **GitHub Actions**, detector de secretos antes de cada commit, despliegue en **Vercel** y tareas programadas con **Cloudflare Cron**.
+- Más de 230 commits y 100 pull requests, con decisiones de arquitectura documentadas (ADR).
+- *Next.js 16 · React 19 · TypeScript · Supabase · PostgreSQL · Stripe · Zod · Vitest · Vercel*
 
 #### 🛍️ [Backend-Yolik](https://github.com/EJ-Zaskier/Backend-Yolik): API para tienda en línea de ropa tradicional
 - Autenticación con **Auth0** (tokens RS256) y **control de acceso por roles**; límite de peticiones separado por área (auth, carrito, pedidos, admin).
@@ -104,12 +118,13 @@ Español: nativo · Inglés: básico (en estudio)
 
 ### 👋 About me
 
-Junior Full Stack Developer and IT Engineering student at Universidad Tecnológica de Tehuacán (Mexico). I build web and mobile apps end to end, with a focus on security and reliability: role-based auth, input validation, automated tests, and logic that prevents real-world bugs such as overselling stock or rounding errors in totals. I'm looking for an internship or a part-time / remote junior role.
+Junior Full Stack Developer and IT Engineering student at Universidad Tecnológica de Tehuacán (Mexico). I build web and mobile apps end to end; I'm currently building **Barber Digital**, a booking and payments SaaS for barbershops. I focus on security and reliability: role-based auth, input validation, automated tests, and logic that prevents real-world bugs such as overselling stock or rounding errors in totals. I'm looking for an internship or a part-time / remote junior role.
 
-**Stack:** React, React Native (Expo), TypeScript, Angular, Node.js, Express, MongoDB, MySQL, Auth0, AWS Rekognition, Docker, Socket.io, Jest/Vitest, Git.
+**Stack:** Next.js, React, React Native (Expo), TypeScript, Angular, Node.js, Express, PostgreSQL (Supabase), MongoDB, MySQL, Stripe, Auth0, AWS Rekognition, Docker, Vercel, GitHub Actions, Vitest/Jest, Git.
 
 ### 🚀 Featured projects
 
+- **Barber Digital** *(private repo, in development)*: multi-tenant booking and payments SaaS for barbershops. Guest booking, pay at the shop or by card (Stripe Connect, test mode), owner dashboard with TOTP two-factor auth, PostgreSQL on Supabase with row-level security, 50 migrations and pgTAP tests, CI on GitHub Actions, deployed on Vercel.
 - **[Backend-Yolik](https://github.com/EJ-Zaskier/Backend-Yolik)**: e-commerce REST API with Auth0 (RS256) and role-based access control, cart, orders, admin dashboard, a payment-provider layer ready for Stripe / Mercado Pago / PayPal, cent-based money math, automated tests and a Dockerfile.
 - **[Mini e-commerce](https://github.com/EJ-Zaskier/Mini-proyecto-e-comerce)**: full stack store (React + Node.js + MongoDB) with per-size inventory, atomic stock updates to prevent overselling, admin panel with audit logs, and OWASP-oriented security.
 - **[AsistenciaApp](https://github.com/EJ-Zaskier/AsistenciaApp)**: mobile attendance app with facial recognition (AWS Rekognition), Excel/PDF reports and real-time charts.
