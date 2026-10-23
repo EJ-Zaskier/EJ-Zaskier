@@ -86,13 +86,13 @@ Desarrollo aplicaciones web y móviles de punta a punta: interfaz, API, base de 
 
 ### 💼 Experiencia
 
-**Face Guard — Desarrollador de software** · UTT San Pablo Tepetzingo · ene 2025 – abr 2025
+**Face Guard — Desarrollador de software** · Universidad Tecnológica de Tehuacán · ene 2025 – abr 2025
 - Asumí el desarrollo completo de la app móvil ante la falta de personal, aumentando la eficiencia del software en un 30%.
 - Implementé y optimicé las funciones de seguridad del sistema.
 - Coordiné entregas y pruebas funcionales con el equipo.
 - *React Native, Expo, TypeScript, AWS Rekognition, Socket.io*
 
-**Codex — Desarrollador web y de bases de datos** · UTT San Pablo Tepetzingo · may 2024 – ago 2024
+**Codex — Desarrollador web y de bases de datos** · Universidad Tecnológica de Tehuacán · may 2024 – ago 2024
 - Diseñé e implementé el sistema de autenticación y la página de inicio de la plataforma.
 - Optimicé la base de datos y las consultas, reduciendo el tiempo de respuesta en un 20%.
 - Rediseñé partes de la interfaz para hacerla más clara para los usuarios.
