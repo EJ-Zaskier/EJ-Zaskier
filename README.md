@@ -1,314 +1,122 @@
-# Enrique Julián García López | Full Stack Developer
+# Enrique Julián Gracia López
 
-**Estudiante en Ingeniera en Tecnologías de la Información | Software Student Developer**
+**Desarrollador Full Stack Jr. | React · React Native · Node.js · TypeScript**
 
-📍 Chapulco, Puebla | 📞 +52 238 144 3250 | 📧 quiquesin1@gmail.com | 
----
+Estudiante de Ingeniería en Tecnologías de la Información (Desarrollo y Gestión de Software) en la Universidad Tecnológica de Tehuacán. Busco prácticas profesionales o un puesto junior de medio tiempo o remoto, compatible con mis estudios.
 
-## 🌐 Selecciona tu idioma | Select your language
+📍 Chapulco, Puebla, México · 📧 quiquesin1@gmail.com
 
-### [🇪🇸 Español](#español) | [🇬🇧 English](#english)
-
----
-
-# ESPAÑOL
-
-## 👋 Sobre mí
-
-Soy un desarrollador apasionado por construir soluciones innovadoras que impacten positivamente en entornos educativos y empresariales. Con experiencia en **desarrollo Full Stack**, me especializo en crear aplicaciones robustas que optimizan procesos, mejoran la seguridad y ofrecen excelentes experiencias de usuario.
-
-**Fortalezas principales:**
-- 🔐 Implementación de sistemas de autenticación y seguridad avanzada
-- 📱 Desarrollo de aplicaciones móviles con reconocimiento facial y AWS
-- 🚀 Arquitectura de APIs REST con principios SOLID
-- 📊 Optimización de bases de datos y rendimiento
-- 🤝 Coordinación efectiva de equipos multidisciplinarios
+[Español](#español) · [English](#english)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Español
 
-### Frontend
-![React](https://img.shields.io/badge/React-18.3-61dafb?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/React_Native-0.76-61dafb?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178c6?style=for-the-badge&logo=typescript) ![Angular](https://img.shields.io/badge/Angular-Latest-dd0031?style=for-the-badge&logo=angular)
+### 👋 Sobre mí
 
-### Mobile & Multiplataforma
-![Expo](https://img.shields.io/badge/Expo-52.0-000020?style=for-the-badge&logo=expo) ![React Navigation](https://img.shields.io/badge/React%20Navigation-7.x-000000?style=for-the-badge)
+Desarrollo aplicaciones web y móviles de punta a punta: API, base de datos e interfaz. Me enfoco en que lo que construyo sea seguro y confiable: autenticación con roles, validación de datos, pruebas automatizadas y lógica que evita errores reales, como vender más producto del que hay en inventario o perder centavos al calcular un total.
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-Latest-339933?style=for-the-badge&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express-5.x-000000?style=for-the-badge&logo=express) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=for-the-badge&logo=javascript)
+### 🛠️ Tecnologías
 
-### Bases de Datos
-![MongoDB](https://img.shields.io/badge/MongoDB-Latest-13aa52?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-Latest-005c87?style=for-the-badge&logo=mysql)
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS%20Rekognition-000000?style=for-the-badge&logo=amazon-aws) ![Git](https://img.shields.io/badge/Git-Latest-f05032?style=for-the-badge&logo=git)
+**Móvil**
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Herramientas & Librerías
-- **Autenticación:** JWT, bcryptjs
-- **Validación:** Express-validator
-- **Seguridad:** Helmet, CORS, Express-rate-limit
-- **Testing:** Jest, Supertest, Vitest
-- **Build Tools:** Vite, Webpack, Expo
-- **UI/UX:** React Router, React Navigation, Expo Router
-- **Búsqueda:** Meilisearch
-- **Reportes:** ExcelJS, PDFKit, react-native-html-to-pdf
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
----
+**Bases de datos**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 💼 Experiencia Profesional
+**Seguridad, nube y herramientas**
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Face Guard | Desarrollador de Software & Soporte al Equipo
-**UTT San Pablo Tepetzingo** | 01/2025 - 04/2025
+**Además:** JWT, bcrypt y control de acceso por roles · Helmet, CORS y rate limiting · Express-validator · Vitest y Supertest · Meilisearch · ExcelJS y PDFKit · Scrum
 
-- 📈 Aumenté la eficiencia del software en un **50%** al encargarse del desarrollo completo ante falta de personal
-- 🔒 Mejoré la seguridad del sistema en un **25%** implementando y optimizando funciones clave
-- ✅ Aseguré un índice de calidad del producto del **95%** coordinando entregas y pruebas funcionales
+### 🚀 Proyectos destacados
 
-**Tecnologías:** React Native, Expo, TypeScript, AWS Rekognition, Socket.io
+#### 🛍️ [Backend-Yolik](https://github.com/EJ-Zaskier/Backend-Yolik): API para tienda en línea de ropa tradicional
+- Autenticación con **Auth0** (tokens RS256) y **control de acceso por roles**; límite de peticiones separado por área (auth, carrito, pedidos, admin).
+- Carrito, pedidos, catálogo público y **dashboard de administración**.
+- Arquitectura de pagos preparada para conectar **Stripe, Mercado Pago o PayPal**, activable con un *feature flag*.
+- Montos calculados en **centavos** y precio guardado en cada pedido, para que los totales no cambien si después cambia el catálogo.
+- Pruebas automatizadas por módulo (pedidos, pagos, seguridad) y **Dockerfile** para desplegar.
+- *Node.js · Express · MongoDB · Auth0 · Docker*
 
-### Codex | Desarrollador Web & Especialista en Bases de Datos
-**UTT San Pablo Tepetzingo** | 05/2024 - 08/2024
+#### 🛒 [Mini e-commerce full stack](https://github.com/EJ-Zaskier/Mini-proyecto-e-comerce)
+- Catálogo público; el inicio de sesión se pide solo al agregar al carrito o comprar.
+- Inventario por talla con **descuento de stock atómico** para evitar sobreventa cuando dos personas compran al mismo tiempo.
+- Panel de administración: productos, roles, historial de sesiones y **bitácora de auditoría**.
+- Seguridad basada en **OWASP**: validación estricta, JWT con expiración, roles verificados en el backend y errores que no exponen detalles internos.
+- *React · Vite · Vitest · Node.js · Express · MongoDB*
 
-- 🔐 Diseñé e implementé el **sistema de autenticación y la página de inicio** de la plataforma
-- ⚡ Mejoré la velocidad de respuesta en un **20%** optimizando la base de datos y consultas
-- 😊 Aumenté la satisfacción del usuario en un **15%** mejorando la interfaz de usuario
+#### 📱 [AsistenciaApp](https://github.com/EJ-Zaskier/AsistenciaApp): asistencias con reconocimiento facial
+- App móvil que registra asistencias identificando a la persona con **AWS Rekognition**.
+- Reportes exportables a Excel y PDF, y gráficas que se actualizan en tiempo real con Socket.io.
+- *React Native · Expo · TypeScript · AWS Rekognition · Socket.io*
 
-**Tecnologías:** JavaScript, Node.js, Express, MongoDB, MySQL
+**Otros:** [Gestión de inscripciones y pagos](https://github.com/EJ-Zaskier/Gestion-de-Inscripciones-Pagos--Frontend) (Angular 19) · [Buscador con Meilisearch](https://github.com/EJ-Zaskier/Meilisearch-Activity-Ej-Enrique-Julian) (React) · [Tareas-EJGL](https://github.com/EJ-Zaskier/Tareas-EJGL) (Angular)
 
----
+### 💼 Experiencia
 
-## 🚀 Proyectos Destacados
+**Face Guard — Desarrollador de software** · UTT San Pablo Tepetzingo · ene 2025 – abr 2025
+- Asumí el desarrollo completo de la app móvil ante la falta de personal, aumentando la eficiencia del software en un 30%.
+- Implementé y optimicé las funciones de seguridad del sistema.
+- Coordiné entregas y pruebas funcionales con el equipo.
+- *React Native, Expo, TypeScript, AWS Rekognition, Socket.io*
 
-### [AsistenciaApp](https://github.com/EJ-Zaskier/AsistenciaApp)
-📱 Aplicación móvil para gestión de asistencias con reconocimiento facial
+**Codex — Desarrollador web y de bases de datos** · UTT San Pablo Tepetzingo · may 2024 – ago 2024
+- Diseñé e implementé el sistema de autenticación y la página de inicio de la plataforma.
+- Optimicé la base de datos y las consultas, reduciendo el tiempo de respuesta en un 20%.
+- Rediseñé partes de la interfaz para hacerla más clara para los usuarios.
+- *JavaScript, Node.js, Express, MongoDB, MySQL*
 
-- **Stack:** React Native, Expo, TypeScript, AWS Rekognition, Socket.io
-- **Características:** Autenticación segura, reportes en Excel/PDF, gráficos en tiempo real, navegación avanzada
-- **Impacto:** Optimiza procesos educativos y empresariales
+### 🎓 Educación
 
-### [Backend-Yolik](https://github.com/EJ-Zaskier/Backend-Yolik)
-🛍️ Backend de e-commerce para plataforma de ropa tradicional
+- **Ingeniería en Tecnologías de la Información** (Desarrollo y Gestión de Software) — Universidad Tecnológica de Tehuacán · 2025 – 2027 (en curso)
+- **TSU en Tecnologías de la Información** (Desarrollo de Software Multiplataforma) — Universidad Tecnológica de Tehuacán · 2023 – 2025
+- **Técnico en Programación** — CBTIS 229 · 2020 – 2023
 
-- **Stack:** Node.js, Express.js, MongoDB, JWT, Helmet
-- **Características:** Autenticación segura, validación robusta, arquitectura escalable
-- **Seguridad:** Implementación completa de CORS, rate-limiting y encriptación
+### 🌍 Idiomas
 
-### [Mini-proyecto-e-commerce](https://github.com/EJ-Zaskier/Mini-proyecto-e-comerce)
-🏗️ Proyecto full-stack educativo con principios SOLID
+Español: nativo · Inglés: básico (en estudio)
 
-- **Frontend:** React, Vite, React Router, Vitest
-- **Backend:** Node.js, Express, MongoDB, BCrypt, JWT
-- **Enfoque:** Clean Code, Testing, Seguridad y Gestión de BD
+### 📬 Contacto
 
-### [Tareas-EJGL](https://github.com/EJ-Zaskier/Tareas-EJGL)
-📚 Proyecto de aprendizaje en Angular
-
-- **Stack:** TypeScript, Angular, Componentes reactivos
-- **Propósito:** Desarrollo de habilidades en frameworks modernos
-
----
-
-## 🎓 Educación
-
-### Universidad Tecnológica de Tehuacán
-- **ING en Tecnologías de la Información** | Desarrollo y Gestión de Software | 2025 - 2027
-- **TSU en Tecnologías de la Información** | Desarrollo de Software Multiplataforma | 2023 - 2025
-
-### Centro de Bachillerato Tecnológico Industrial y de Servicios 229
-- **Técnico en Programación** | 09/2020 - 07/2023
+📧 quiquesin1@gmail.com · 💻 [github.com/EJ-Zaskier](https://github.com/EJ-Zaskier)
 
 ---
 
-## 🎯 Fortalezas
+## English
 
-**Conocimiento Tecnológico**
-- Expertise en tecnologías web y móviles
-- Innovación tecnológica constante
-- Pasión por la mejora continua
+### 👋 About me
 
-**Optimización de Sistemas**
-- Capacidad para optimizar procesos
-- Análisis y resolución de problemas complejos
-- Implementación de mejores prácticas
+Junior Full Stack Developer and IT Engineering student at Universidad Tecnológica de Tehuacán (Mexico). I build web and mobile apps end to end, with a focus on security and reliability: role-based auth, input validation, automated tests, and logic that prevents real-world bugs such as overselling stock or rounding errors in totals. I'm looking for an internship or a part-time / remote junior role.
 
-**Coordinación Eficaz**
-- Liderazgo en equipos multidisciplinarios
-- Comunicación clara y efectiva
-- Entrega consistente de proyectos
+**Stack:** React, React Native (Expo), TypeScript, Angular, Node.js, Express, MongoDB, MySQL, Auth0, AWS Rekognition, Docker, Socket.io, Jest/Vitest, Git.
 
----
+### 🚀 Featured projects
 
-## 🌍 Idiomas
+- **[Backend-Yolik](https://github.com/EJ-Zaskier/Backend-Yolik)**: e-commerce REST API with Auth0 (RS256) and role-based access control, cart, orders, admin dashboard, a payment-provider layer ready for Stripe / Mercado Pago / PayPal, cent-based money math, automated tests and a Dockerfile.
+- **[Mini e-commerce](https://github.com/EJ-Zaskier/Mini-proyecto-e-comerce)**: full stack store (React + Node.js + MongoDB) with per-size inventory, atomic stock updates to prevent overselling, admin panel with audit logs, and OWASP-oriented security.
+- **[AsistenciaApp](https://github.com/EJ-Zaskier/AsistenciaApp)**: mobile attendance app with facial recognition (AWS Rekognition), Excel/PDF reports and real-time charts.
 
-| Idioma | Nivel |
-|--------|-------|
-| 🇪🇸 Español | Nativo |
-| 🇬🇧 Inglés | Básico |
+### 💼 Experience
 
----
+- **Face Guard, Software Developer** (Jan–Apr 2025): took over full development of the mobile app; increased software efficiency by 30%.
+- **Codex, Web & Database Developer** (May–Aug 2024): built the authentication system and landing page; cut response time by 20% through database and query optimization.
 
-## 📬 Contáctame
-
-Siempre estoy interesado en colaborar en proyectos innovadores y contribuir a equipos dinámicos. No dudes en contactarme:
-
-- 📧 **Email:** quiquesin1@gmail.com
-- 💼 **GitHub:** [@EJ-Zaskier](https://github.com/EJ-Zaskier)
-- 📱 **Teléfono:** +52 238 144 3250
-
----
-
-# ENGLISH
-
-## 👋 About Me
-
-I'm a passionate developer committed to building innovative solutions that positively impact educational and corporate environments. With experience in **Full Stack development**, I specialize in creating robust applications that optimize processes, enhance security, and deliver excellent user experiences.
-
-**Key Strengths:**
-- 🔐 Implementation of advanced authentication and security systems
-- 📱 Mobile app development with facial recognition and AWS
-- 🚀 REST API architecture with SOLID principles
-- 📊 Database optimization and performance enhancement
-- 🤝 Effective coordination of multidisciplinary teams
-
----
-
-## 🛠️ Technology Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-18.3-61dafb?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/React_Native-0.76-61dafb?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178c6?style=for-the-badge&logo=typescript) ![Angular](https://img.shields.io/badge/Angular-Latest-dd0031?style=for-the-badge&logo=angular)
-
-### Mobile & Cross-Platform
-![Expo](https://img.shields.io/badge/Expo-52.0-000020?style=for-the-badge&logo=expo) ![React Navigation](https://img.shields.io/badge/React%20Navigation-7.x-000000?style=for-the-badge)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-Latest-339933?style=for-the-badge&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express-5.x-000000?style=for-the-badge&logo=express) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=for-the-badge&logo=javascript)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-Latest-13aa52?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-Latest-005c87?style=for-the-badge&logo=mysql)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS%20Rekognition-000000?style=for-the-badge&logo=amazon-aws) ![Git](https://img.shields.io/badge/Git-Latest-f05032?style=for-the-badge&logo=git)
-
-### Tools & Libraries
-- **Authentication:** JWT, bcryptjs
-- **Validation:** Express-validator
-- **Security:** Helmet, CORS, Express-rate-limit
-- **Testing:** Jest, Supertest, Vitest
-- **Build Tools:** Vite, Webpack, Expo
-- **UI/UX:** React Router, React Navigation, Expo Router
-- **Search:** Meilisearch
-- **Reporting:** ExcelJS, PDFKit, react-native-html-to-pdf
-
----
-
-## 💼 Professional Experience
-
-### Face Guard | Software Developer & Team Support
-**UTT San Pablo Tepetzingo** | 01/2025 - 04/2025
-
-- 📈 Increased software efficiency by **50%** while managing full development with limited personnel
-- 🔒 Improved system security by **25%** by implementing and optimizing key features
-- ✅ Achieved **95%** product quality index by coordinating deliveries and functional tests
-
-**Technologies:** React Native, Expo, TypeScript, AWS Rekognition, Socket.io
-
-### Codex | Web Developer & Database Specialist
-**UTT San Pablo Tepetzingo** | 05/2024 - 08/2024
-
-- 🔐 Designed and implemented the **authentication system and landing page** of the platform
-- ⚡ Improved response speed by **20%** by optimizing database and queries
-- 😊 Increased user satisfaction by **15%** improving user interface
-
-**Technologies:** JavaScript, Node.js, Express, MongoDB, MySQL
-
----
-
-## 🚀 Featured Projects
-
-### [AsistenciaApp](https://github.com/EJ-Zaskier/AsistenciaApp)
-📱 Mobile application for attendance management with facial recognition
-
-- **Stack:** React Native, Expo, TypeScript, AWS Rekognition, Socket.io
-- **Features:** Secure authentication, Excel/PDF reports, real-time charts, advanced navigation
-- **Impact:** Optimizes educational and corporate processes
-
-### [Backend-Yolik](https://github.com/EJ-Zaskier/Backend-Yolik)
-🛍️ E-commerce backend for traditional clothing platform
-
-- **Stack:** Node.js, Express.js, MongoDB, JWT, Helmet
-- **Features:** Secure authentication, robust validation, scalable architecture
-- **Security:** Complete implementation of CORS, rate-limiting, and encryption
-
-### [Mini-proyecto-e-commerce](https://github.com/EJ-Zaskier/Mini-proyecto-e-comerce)
-🏗️ Full-stack educational project with SOLID principles
-
-- **Frontend:** React, Vite, React Router, Vitest
-- **Backend:** Node.js, Express, MongoDB, BCrypt, JWT
-- **Focus:** Clean Code, Testing, Security, and Database Management
-
-### [Tareas-EJGL](https://github.com/EJ-Zaskier/Tareas-EJGL)
-📚 Angular learning project
-
-- **Stack:** TypeScript, Angular, Reactive Components
-- **Purpose:** Developing skills in modern frameworks
-
----
-
-## 🎓 Education
-
-### Technological University of Tehuacán
-- **Engineering in Information Technologies** | Software Development and Management | 2025 - 2027
-- **Associate Degree in Information Technologies** | Multiplatform Software Development | 2023 - 2025
-
-### Industrial and Services Technological High School 229
-- **Technical Programmer** | 09/2020 - 07/2023
-
----
-
-## 🎯 Strengths
-
-**Technical Knowledge**
-- Expertise in web and mobile technologies
-- Constant technological innovation
-- Passion for continuous improvement
-
-**Systems Optimization**
-- Ability to optimize processes
-- Analysis and resolution of complex problems
-- Implementation of best practices
-
-**Effective Coordination**
-- Leadership in multidisciplinary teams
-- Clear and effective communication
-- Consistent project delivery
-
----
-
-## 🌍 Languages
-
-| Language | Level |
-|----------|-------|
-| 🇪🇸 Spanish | Native |
-| 🇬🇧 English | Basic |
-
----
-
-## 📬 Contact Me
-
-I'm always interested in collaborating on innovative projects and contributing to dynamic teams. Feel free to reach out:
-
-- 📧 **Email:** quiquesin1@gmail.com
-- 💼 **GitHub:** [@EJ-Zaskier](https://github.com/EJ-Zaskier)
-- 📱 **Phone:** +52 238 144 3250
-
----
-
-<div align="center">
-
-### 🇪🇸 "La innovación y la excelencia técnica son mi motor para crear soluciones que marcan la diferencia."
-
-### 🇬🇧 "Innovation and technical excellence drive me to create solutions that make a difference."
-
-⭐ If you're interested in any of my projects, feel free to leave a star or contact me.
-
-</div>
+📧 quiquesin1@gmail.com
